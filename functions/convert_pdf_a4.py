@@ -11,7 +11,7 @@ from PIL import Image
 
 input_folder = root_path+'qrcodes2'
 output_folder = root_path
-output_pdf_filename = 'ร้อย.พล.สร.รพ.ค่ายวชิราวุธ.pdf'
+output_pdf_filename = 'file.pdf'
 
 # Create a PDF file and add a grid of images
 pdf_path = os.path.join(output_folder, output_pdf_filename)
